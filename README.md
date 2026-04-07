@@ -70,28 +70,6 @@ Essa implementação permite futuras otimizações baseadas em dados reais de us
 
 ---
 
-## 🧠 Aprendizados
-
-- Estruturação de landing pages focadas em conversão
-- Uso do Bootstrap para acelerar desenvolvimento responsivo
-- Organização de layout e hierarquia visual
-- Implementação de CTA estratégico para geração de leads
-- Deploy e configuração de domínio com Vercel
-- Configuração de DNS no Registro.br
-- Integração de ferramentas de analytics
-
----
-
-## 🔮 Melhorias Futuras
-
-- Integração com Google Analytics
-- Implementação de métricas de conversão mais avançadas
-- Otimizações de SEO
-- Performance (lazy loading, compressão de assets)
-- Integração com ferramentas de marketing (Meta Pixel / Google Ads)
-
----
-
 ## 📌 Considerações
 
 Este projeto representa uma aplicação real, com foco em resolver uma necessidade prática de negócio: presença digital e captação de clientes.
